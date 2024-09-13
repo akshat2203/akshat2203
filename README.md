@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=akshat2203&color=000000)
+
 # 👋 Hi, I'm Akshat Shah
 
 I'm a **Software Engineer** with over 3 years of experience specializing in Python Django development, cloud technologies, and DevOps practices. I excel in both front-end and back-end development and am passionate about enhancing web application performance. I'm seeking opportunities to contribute my expertise to dynamic, growth-oriented projects.
@@ -45,14 +47,16 @@ I'm a **Software Engineer** with over 3 years of experience specializing in Pyth
 
 ## 📈 GitHub Stats
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2203&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat2203&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2203&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 💼 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/akshat-shah-6495a518a)
-[![Website](https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white&style=for-the-badge)](http://www.akshatshah.site/)
+[![Website](https://img.shields.io/badge/Website-000000?logoColor=white&style=for-the-badge)](http://www.akshatshah.site/)
 
 
 ## ⚡ Fun Fact
