@@ -45,6 +45,10 @@ I'm a **Software Engineer** with over 3 years of experience specializing in Pyth
 - Passionate about developing **software solutions** and innovative **quick hacks**.
 - Interested in **CI/CD** practices with **Jenkins** and **Ansible** for streamlined development and deployment.
 
+## 📈 Open Source Contribution badges
+
+[![An image of @akshat_shah2203's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshat_shah2203)](https://holopin.io/@akshat_shah2203)
+
 ## 📈 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshat2203&theme=radical&hide_border=true)  ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat2203&show_icons=true&theme=radical)
