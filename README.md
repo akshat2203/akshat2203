@@ -51,9 +51,7 @@ I'm a **Software Engineer** with over 3 years of experience specializing in Pyth
 
 ## 📈 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshat2203&theme=radical&hide_border=true)  ![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshat2203&show_icons=true&theme=radical)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2203&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshat2203&theme=radical&hide_border=true)
 
 
 ## 💼 Let's Connect
